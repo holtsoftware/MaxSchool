@@ -1,1 +1,1 @@
-﻿First of lets talk about the Boolean type abreviated as bool.
+=== First of lets talk about the Boolean type abreviated as bool.
