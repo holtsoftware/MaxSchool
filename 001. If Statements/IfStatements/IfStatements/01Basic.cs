@@ -8,6 +8,8 @@ namespace IfStatements
 {
 	public class _01Basic
 	{
+		#region Exercise One
+		#endregion
 		/// <summary>
 		/// This method takes a String <paramref name="number"/> and returns its number representation of it up to 10
 		/// i.e. if you send in "One" it will return 1
